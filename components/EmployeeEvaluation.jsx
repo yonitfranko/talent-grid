@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
-import { Label } from "@/components/ui/label";
-import { Input } from "@/components/ui/input";
-import { Button } from "@/components/ui/button";
-import { Progress } from "@/components/ui/progress";
-import { Alert, AlertDescription } from "@/components/ui/alert";
+import { Card, CardHeader, CardTitle, CardContent } from  "./ui/card";
+import { Label } from "./ui/label";
+import { Input } from  "./ui/input";
+import { Button } from  "./ui/button";
+import { Progress } from  "./ui/progress";
+import { Alert, AlertDescription } from "./ui/alert";
 import { Save } from 'lucide-react';
 
 const EmployeeEvaluation = () => {
