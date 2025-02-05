@@ -1,4 +1,4 @@
-import EmployeeEvaluation from '../components/EmployeeEvaluation'
+import EmployeeEvaluation from '../src/components/EmployeeEvaluation'
 
 export default function Home() {
   return (
